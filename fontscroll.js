@@ -1,11 +1,8 @@
 /**
  +-------------------------------------------------------------------
- * jQuery FontScroll - ���������Ϲ������ - http://java2.sinaapp.com
  +-------------------------------------------------------------------
- * @version    1.0.0 beta
- * @since      2014.06.12
- * @author     kongzhim <kongzhim@163.com> <http://java2.sinaapp.com>
- * @github     http://git.oschina.net/kzm/FontScroll
+ * @version    0.01 beta
+ * @since      2023.06.10
  +-------------------------------------------------------------------
  */
 
