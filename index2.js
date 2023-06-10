@@ -6,7 +6,7 @@ $(function () {
         var myChart = echarts.init(document.getElementById('chart_1'));
 
 
-        var namedata = [{name:'张'},{name:'刘'},{name:'李'},{name:'邓'},{name:'熊'},{name:'田'},{name:'周'},{name:'赵'},{name:'钱'},{name:'孙'},
+        var namedata = [{name:'张'},{name:'刘'},{name:'李'},{name:'付'},{name:'王'},{name:'田'},{name:'周'},{name:'赵'},{name:'钱'},{name:'孙'},
             {name:'吴'},{name:'郑'},{name:'王'},{name:'冯'},{name:'陈'},{name:'杨'},{name:'朱'},{name:'秦'},{name:'许'},{name:'徐'},
             {name:'何'},{name:'曹'},{name:'陶'},{name:'邹'},{name:'苏'},{name:'范'},{name:'彭'},{name:'鲁'},{name:'马'},{name:'方'},
             {name:'唐'},{name:'顾'}];
